@@ -1,8 +1,3 @@
-### Hi there 👋
-
-**w1gh7/w1gh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on murder
 - 🌱 I’m currently learning killing
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: blood note
 - 😄 Pronouns: lol 
 - ⚡ Fun fact: i am currently serving life
--->
